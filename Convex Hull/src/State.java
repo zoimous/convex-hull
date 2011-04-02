@@ -2,6 +2,8 @@ import java.awt.Point;
 import java.util.ArrayList;
 import java.util.Observable;
 
+import algorithms.ConvexHullAlgorithm;
+
 
 public class State extends Observable
 {

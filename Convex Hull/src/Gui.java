@@ -19,6 +19,9 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.SpringLayout;
 
+import algorithms.FastConvexHull;
+import algorithms.SlowConvexHull;
+
 
 public class Gui extends JFrame implements Observer
 {
